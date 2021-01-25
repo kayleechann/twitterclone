@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 !!!!!! Twitter Clone is currently deployed with Google Firebase: https://twitter-clone-e538a.web.app/ !!!!!!
 
 ## Available Scripts
